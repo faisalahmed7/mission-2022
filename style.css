@@ -1,0 +1,134 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.border {
+    display: flex;
+}
+.orange-border {
+    border-left: 7px #ff6600 solid;
+    border-radius: 9px;
+    margin-right: 22px;
+    height: 156px;
+}
+.border h1 {
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.focused-area{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+.orange-color{
+    color: #ff6600;
+}
+.width{
+    width: 50%;
+    text-align: justify;
+}
+.width img{
+    width: 60%;
+
+}
+
+.button-link{
+    color: white;
+    text-decoration: none;
+    padding: 15px 20px;
+    background:#ff6600;
+    border-radius: 5px;   
+}
+
+
+.box-width{
+    display: flex;
+    width: auto;
+}
+#first-box{
+  width:auto;
+  border-radius:20px;
+  padding: 50px;
+  margin: 20px;
+  background-color:rgb(223, 229, 235);
+  text-align: justify;
+}
+
+#second-box{
+    
+    width: auto;
+    border-radius:20px;
+    padding: 50px;
+    margin:20px;
+    background-color: rgb(255, 192, 203);
+    text-align: justify;
+}
+
+#third-box{
+    
+    width: auto;
+    border-radius:20px;
+    padding: 50px;
+    margin: 20px;
+    background-color:rgb(133 133 56 / 18%); 
+    text-align: justify;
+}
+.box-width img {
+    width: 250px;
+    height: 250px;
+}
+.develop-left {
+    width: 40%;
+}
+.develop-left img {
+    width: 100%;
+}
+.develop-right {
+    margin-left: 55px;
+}
+
+.global-right {
+    width: 40%;
+}
+.global-right img {
+    width: 100%;
+}
+.social-sec {
+    display: flex;
+    margin-left: 400px;
+}
+.social-sec img {
+    width: 200px ;
+    height: 200px;
+    padding: 10px;
+}
+.social-area {
+    border: 2px black solid;
+    margin: 20px;
+    border-radius: 15px;
+
+}
+
+.footer-css{
+    text-align: center;
+    background: black;
+    color: white;
+    height: 150px;
+    width: 100%;
+    
+}
+.footer-css h1 {
+    padding: 0px;
+    margin: 0px;
+}
+.footer-css p {
+    padding: 0px;
+    margin: 0px;
+}
